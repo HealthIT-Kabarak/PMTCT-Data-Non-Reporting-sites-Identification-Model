@@ -53,10 +53,13 @@ Overall, the data engineering process is critical to the success of a machine le
 
 ### 1.5 Installation
    #### 1.5.1: Git Clone
+        https://github.com/HealthIT-Kabarak/PMTCT-Data-Non-Reporting-sites-Identification-Model.git
    
    #### 1.5.2 Creating virtual environment
+         python<version> -m venv <virtual-environment-name>
    
    #### 1.5.3 Installing necessary libraries
+        pip install <packagename>
    
 
 integrating the developed classification model into an application or system that can be used by stakeholders to identify PMTCT sites that do not report tests.
